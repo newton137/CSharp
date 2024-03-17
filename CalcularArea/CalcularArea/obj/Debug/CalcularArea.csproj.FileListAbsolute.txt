@@ -1,0 +1,10 @@
+C:\Users\fenix\source\repos\CalcularArea\CalcularArea\bin\Debug\CalcularArea.exe.config
+C:\Users\fenix\source\repos\CalcularArea\CalcularArea\bin\Debug\CalcularArea.exe
+C:\Users\fenix\source\repos\CalcularArea\CalcularArea\bin\Debug\CalcularArea.pdb
+C:\Users\fenix\source\repos\CalcularArea\CalcularArea\obj\Debug\CalcularArea.csproj.AssemblyReference.cache
+C:\Users\fenix\source\repos\CalcularArea\CalcularArea\obj\Debug\CalcularArea.Form1.resources
+C:\Users\fenix\source\repos\CalcularArea\CalcularArea\obj\Debug\CalcularArea.Properties.Resources.resources
+C:\Users\fenix\source\repos\CalcularArea\CalcularArea\obj\Debug\CalcularArea.csproj.GenerateResource.cache
+C:\Users\fenix\source\repos\CalcularArea\CalcularArea\obj\Debug\CalcularArea.csproj.CoreCompileInputs.cache
+C:\Users\fenix\source\repos\CalcularArea\CalcularArea\obj\Debug\CalcularArea.exe
+C:\Users\fenix\source\repos\CalcularArea\CalcularArea\obj\Debug\CalcularArea.pdb

@@ -1,0 +1,10 @@
+C:\Users\fenix\source\repos\Objetos\Objetos\bin\Debug\Objetos.exe.config
+C:\Users\fenix\source\repos\Objetos\Objetos\bin\Debug\Objetos.exe
+C:\Users\fenix\source\repos\Objetos\Objetos\bin\Debug\Objetos.pdb
+C:\Users\fenix\source\repos\Objetos\Objetos\obj\Debug\Objetos.csproj.AssemblyReference.cache
+C:\Users\fenix\source\repos\Objetos\Objetos\obj\Debug\Objetos.Form1.resources
+C:\Users\fenix\source\repos\Objetos\Objetos\obj\Debug\Objetos.Properties.Resources.resources
+C:\Users\fenix\source\repos\Objetos\Objetos\obj\Debug\Objetos.csproj.GenerateResource.cache
+C:\Users\fenix\source\repos\Objetos\Objetos\obj\Debug\Objetos.csproj.CoreCompileInputs.cache
+C:\Users\fenix\source\repos\Objetos\Objetos\obj\Debug\Objetos.exe
+C:\Users\fenix\source\repos\Objetos\Objetos\obj\Debug\Objetos.pdb

@@ -1,0 +1,10 @@
+C:\Users\fenix\source\repos\HolaMundoLibro\HolaMundoLibro\bin\Debug\HolaMundoLibro.exe.config
+C:\Users\fenix\source\repos\HolaMundoLibro\HolaMundoLibro\bin\Debug\HolaMundoLibro.exe
+C:\Users\fenix\source\repos\HolaMundoLibro\HolaMundoLibro\bin\Debug\HolaMundoLibro.pdb
+C:\Users\fenix\source\repos\HolaMundoLibro\HolaMundoLibro\obj\Debug\HolaMundoLibro.csproj.AssemblyReference.cache
+C:\Users\fenix\source\repos\HolaMundoLibro\HolaMundoLibro\obj\Debug\HolaMundoLibro.Form1.resources
+C:\Users\fenix\source\repos\HolaMundoLibro\HolaMundoLibro\obj\Debug\HolaMundoLibro.Properties.Resources.resources
+C:\Users\fenix\source\repos\HolaMundoLibro\HolaMundoLibro\obj\Debug\HolaMundoLibro.csproj.GenerateResource.cache
+C:\Users\fenix\source\repos\HolaMundoLibro\HolaMundoLibro\obj\Debug\HolaMundoLibro.csproj.CoreCompileInputs.cache
+C:\Users\fenix\source\repos\HolaMundoLibro\HolaMundoLibro\obj\Debug\HolaMundoLibro.exe
+C:\Users\fenix\source\repos\HolaMundoLibro\HolaMundoLibro\obj\Debug\HolaMundoLibro.pdb

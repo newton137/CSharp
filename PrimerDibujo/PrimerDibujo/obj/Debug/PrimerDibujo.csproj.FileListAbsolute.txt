@@ -1,0 +1,10 @@
+C:\Users\fenix\source\repos\PrimerDibujo\PrimerDibujo\bin\Debug\PrimerDibujo.exe.config
+C:\Users\fenix\source\repos\PrimerDibujo\PrimerDibujo\bin\Debug\PrimerDibujo.exe
+C:\Users\fenix\source\repos\PrimerDibujo\PrimerDibujo\bin\Debug\PrimerDibujo.pdb
+C:\Users\fenix\source\repos\PrimerDibujo\PrimerDibujo\obj\Debug\PrimerDibujo.csproj.AssemblyReference.cache
+C:\Users\fenix\source\repos\PrimerDibujo\PrimerDibujo\obj\Debug\PrimerDibujo.Form1.resources
+C:\Users\fenix\source\repos\PrimerDibujo\PrimerDibujo\obj\Debug\PrimerDibujo.Properties.Resources.resources
+C:\Users\fenix\source\repos\PrimerDibujo\PrimerDibujo\obj\Debug\PrimerDibujo.csproj.GenerateResource.cache
+C:\Users\fenix\source\repos\PrimerDibujo\PrimerDibujo\obj\Debug\PrimerDibujo.csproj.CoreCompileInputs.cache
+C:\Users\fenix\source\repos\PrimerDibujo\PrimerDibujo\obj\Debug\PrimerDibujo.exe
+C:\Users\fenix\source\repos\PrimerDibujo\PrimerDibujo\obj\Debug\PrimerDibujo.pdb

@@ -1,0 +1,9 @@
+C:\Users\fenix\source\repos\AlgunasFormas\AlgunasFormas\bin\Debug\AlgunasFormas.exe.config
+C:\Users\fenix\source\repos\AlgunasFormas\AlgunasFormas\bin\Debug\AlgunasFormas.exe
+C:\Users\fenix\source\repos\AlgunasFormas\AlgunasFormas\bin\Debug\AlgunasFormas.pdb
+C:\Users\fenix\source\repos\AlgunasFormas\AlgunasFormas\obj\Debug\AlgunasFormas.Form1.resources
+C:\Users\fenix\source\repos\AlgunasFormas\AlgunasFormas\obj\Debug\AlgunasFormas.Properties.Resources.resources
+C:\Users\fenix\source\repos\AlgunasFormas\AlgunasFormas\obj\Debug\AlgunasFormas.csproj.GenerateResource.cache
+C:\Users\fenix\source\repos\AlgunasFormas\AlgunasFormas\obj\Debug\AlgunasFormas.csproj.CoreCompileInputs.cache
+C:\Users\fenix\source\repos\AlgunasFormas\AlgunasFormas\obj\Debug\AlgunasFormas.exe
+C:\Users\fenix\source\repos\AlgunasFormas\AlgunasFormas\obj\Debug\AlgunasFormas.pdb
